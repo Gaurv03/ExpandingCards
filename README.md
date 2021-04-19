@@ -1,2 +1,2 @@
 # ExpandingCards
-Cad that contains pictures will expand in clicking them
+Card that contains pictures will expand in clicking them
